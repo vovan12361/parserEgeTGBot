@@ -1,0 +1,9 @@
+pandas~=1.4.2
+selenium~=4.2.0
+bs4~=0.0.1
+beautifulsoup4~=4.11.1
+tabulate~=0.8.9
+setuptools~=60.2.0
+lxml
+pytelegrambotapi
+webdriver_manager
